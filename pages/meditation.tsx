@@ -14,7 +14,7 @@ const Meditation: NextPage = () => {
       <div className="flex flex-col items-center justify-center h-[calc(100vh-80px)] px-4">
         <h1 className="text-6xl font-bold mb-6">Meditation Quotes</h1>
         <p className="text-xl text-gray-300 max-w-2xl text-center">
-          "Meditation is not evasion; it is a serene encounter with reality." - Thích Nhất Hạnh
+        &quot;Meditation is not evasion - it is a serene encounter with reality.&quot; - Thích Nhất Hạnh
         </p>
       </div>
     </div>
